@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Carl Guilford
 
-![Profile Banner](https://via.placeholder.com/1200x300)
+![Profile Banner]([10bankChargerProject](https://github.com/user-attachments/assets/63c1b33e-178a-42d6-88dc-a46115df60a7)
+)
 
 I'm a developer based in Wellington, New Zealand. I specialize in building web applications using Node.js, React, JavaScript, TypeScript, and SQL.
 
