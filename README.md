@@ -4,7 +4,7 @@
 
 I'm a developer based in Wellington, New Zealand. I specialize in building web applications using Node.js, React, JavaScript, TypeScript, and SQL.
 
-![Profile Image](https://via.placeholder.com/150)
+![Profile Image](https://github.com/Drifta01/Drifta01/blob/main/path_to_your_image.jpg)
 
 ## 🚀 Skills
 
