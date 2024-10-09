@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Carl Guilford
 
+![Profile Banner](https://via.placeholder.com/1200x300)
+
 I'm a developer based in Wellington, New Zealand. I specialize in building web applications using Node.js, React, JavaScript, TypeScript, and SQL.
 
 ![Profile Image](https://via.placeholder.com/150)
@@ -20,8 +22,10 @@ I am currently seeking employment opportunities, preferably remote.
 
 ## 🎸 Hobbies
 
-- Music
+- Fishing
 - Cricket
+- Music
+- Arts
 
 ## 📫 Connect with Me
 
